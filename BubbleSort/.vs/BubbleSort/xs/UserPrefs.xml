@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{0A412516-87C9-4290-99A0-1B29E1AE58D4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BubbleSort/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BubbleSort Status">
     <Files>
-      <File FileName="BubbleSort/Program.cs" Line="30" Column="9" />
+      <File FileName="BubbleSort/Program.cs" Line="32" Column="9" />
+      <File FileName="BubbleSort Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

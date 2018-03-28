@@ -16,15 +16,9 @@ namespace BubbleSort
         static void Main(string[] args)
         {
             Console.WriteLine("Sorting randomly generated numbers!");
-
             int length = 10;
-            int[] numbers = new int[length];
-            Random random = new Random();
 
-            for (int i = length - 1; i > 0; i--)
-            {
-                numbers[i] = random.Next(1,100);
-            }
+            int[]  numbers = initializeArray(length);
 
             PrintArray("Unsorted array", numbers);
 
@@ -33,6 +27,19 @@ namespace BubbleSort
             PrintArray("Sorted array", numbers);
 
             Console.WriteLine("Done!");
+        }
+
+        public static int[] initializeArray(int length)
+        {
+            int[] numbers = new int[length];
+            Random random = new Random();
+
+            for (int i = length - 1; i > 0; i--)
+            {
+                numbers[i] = random.Next(1, 100);
+            }
+
+            return numbers;
         }
 
         public static void BubbleSort(int[] numbers)
