@@ -1,12 +1,17 @@
 ﻿<Properties StartupConfiguration="{4466677B-5203-444C-B635-67BA8EDB892D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearch/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearch Status">
     <Files>
-      <File FileName="BinarySearch/Program.cs" Line="9" Column="16" />
+      <File FileName="BinarySearch/Program.cs" Line="23" Column="17" />
+      <File FileName="BinarySearch Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/Program.cs" relfile="BinarySearch/Program.cs" line="33" column="1" />
+      <Breakpoint file="/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/Program.cs" relfile="BinarySearch/Program.cs" line="42" column="1" />
+      <Breakpoint file="/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/Program.cs" relfile="BinarySearch/Program.cs" line="46" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
