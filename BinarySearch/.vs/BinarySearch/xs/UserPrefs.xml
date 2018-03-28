@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4466677B-5203-444C-B635-67BA8EDB892D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearch/Program.cs">
+    <Files>
+      <File FileName="BinarySearch/Program.cs" Line="9" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

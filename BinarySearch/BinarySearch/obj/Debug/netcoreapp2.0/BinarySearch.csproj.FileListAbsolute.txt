@@ -1,0 +1,11 @@
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/bin/Debug/netcoreapp2.0/BinarySearch.deps.json
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/bin/Debug/netcoreapp2.0/BinarySearch.runtimeconfig.json
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/bin/Debug/netcoreapp2.0/BinarySearch.runtimeconfig.dev.json
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/bin/Debug/netcoreapp2.0/BinarySearch.dll
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/bin/Debug/netcoreapp2.0/BinarySearch.pdb
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/obj/Debug/netcoreapp2.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/obj/Debug/netcoreapp2.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/obj/Debug/netcoreapp2.0/BinarySearch.AssemblyInfo.cs
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/obj/Debug/netcoreapp2.0/BinarySearch.dll
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/obj/Debug/netcoreapp2.0/BinarySearch.pdb
+/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/obj/Debug/netcoreapp2.0/BinarySearch.csprojResolveAssemblyReference.cache
