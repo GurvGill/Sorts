@@ -1,0 +1,11 @@
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/bin/Debug/netcoreapp2.0/BubbleSort.deps.json
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/bin/Debug/netcoreapp2.0/BubbleSort.runtimeconfig.json
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/bin/Debug/netcoreapp2.0/BubbleSort.runtimeconfig.dev.json
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/bin/Debug/netcoreapp2.0/BubbleSort.dll
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/bin/Debug/netcoreapp2.0/BubbleSort.pdb
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/obj/Debug/netcoreapp2.0/BubbleSort.csprojResolveAssemblyReference.cache
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/obj/Debug/netcoreapp2.0/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/obj/Debug/netcoreapp2.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/obj/Debug/netcoreapp2.0/BubbleSort.AssemblyInfo.cs
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/obj/Debug/netcoreapp2.0/BubbleSort.dll
+/Users/gurvir/Documents/Sorts/BubbleSort/BubbleSort/obj/Debug/netcoreapp2.0/BubbleSort.pdb
