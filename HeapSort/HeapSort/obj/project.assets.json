@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/BinarySearch.csproj",
-      "projectName": "BinarySearch",
-      "projectPath": "/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/BinarySearch.csproj",
+      "projectUniqueName": "/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/HeapSort.csproj",
+      "projectName": "HeapSort",
+      "projectPath": "/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/HeapSort.csproj",
       "packagesPath": "/Users/gurvir/.nuget/packages/",
-      "outputPath": "/Users/gurvir/Documents/Sorts/BinarySearch/BinarySearch/obj",
+      "outputPath": "/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "BinarySearch/1.0.0": {
+      "HeapSort/1.0.0": {
         "runtime": {
-          "BinarySearch.dll": {}
+          "HeapSort.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BinarySearch/1.0.0": {
+    "HeapSort/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

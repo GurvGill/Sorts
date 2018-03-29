@@ -18,7 +18,7 @@ namespace BubbleSort
             Console.WriteLine("Sorting randomly generated numbers!");
             int length = 10;
 
-            int[]  numbers = initializeArray(length);
+            int[]  numbers = InitializeArray(length);
 
             PrintArray("Unsorted array", numbers);
 
@@ -29,7 +29,7 @@ namespace BubbleSort
             Console.WriteLine("Done!");
         }
 
-        public static int[] initializeArray(int length)
+        public static int[] InitializeArray(int length)
         {
             int[] numbers = new int[length];
             Random random = new Random();

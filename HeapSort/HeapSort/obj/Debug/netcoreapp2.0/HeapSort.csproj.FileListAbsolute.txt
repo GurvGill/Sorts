@@ -1,0 +1,11 @@
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.deps.json
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.runtimeconfig.json
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.runtimeconfig.dev.json
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.dll
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.pdb
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.csprojResolveAssemblyReference.cache
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.csproj.CoreCompileInputs.cache
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.AssemblyInfoInputs.cache
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.AssemblyInfo.cs
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.dll
+/Users/gurvir/Documents/Sorts/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.pdb
